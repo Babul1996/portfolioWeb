@@ -1,0 +1,52 @@
+.skill{
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.skill h2{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 8px;
+    padding-bottom: 40px;
+}
+
+.div40{
+    width: 40%;
+    float: left;
+    padding-top: 25px;
+}
+
+.div40 p{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.div40 h3{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.div60{
+    width: 60%;
+    float: left;
+   
+    
+}
+.div60 h3{
+    font-size: 20px;
+}
+
+@media(max-width: 991px){
+    .div60, .div40{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+

@@ -1,0 +1,35 @@
+.about{
+    align-items: center;
+    text-align: center;
+    padding-top: 25px;
+    
+  
+}
+
+.row h2{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 8px;
+    
+    
+}
+
+.header-img img{
+    border: 1px solid rgb(85, 59, 11);
+    box-shadow: 10px 10px  rgb(79, 44, 235),-10px -10px  rgb(99, 98, 96);
+}
+
+@media(max-width:901px){
+    .header-img img{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        margin-top: 30px;
+      }
+}
+
+
+

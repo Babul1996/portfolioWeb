@@ -1,0 +1,82 @@
+.poster{
+    background-image: url('./image/bgs.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+   
+    
+    
+}
+
+
+.div70{
+    width: 70%;
+    float: left;
+    
+}
+.div70 h1{
+    padding-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.div30{
+    width: 30%;
+    float: left;
+    
+}
+
+.div30 img{
+    width: 200px;
+    border: 1px solid white;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+    
+}
+
+
+#uni{
+    padding: 100px 0;
+}
+
+@media (max-width: 991px){
+    .div30,.div70{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+    .div30 img{
+        width: 250px;
+        margin-top: 80px;
+        text-align: center;
+    
+    }
+
+    #uni {
+        padding: 30px 0;
+    }
+}
+@media (max-width: 500px){
+    .div30 img{
+        width: 250px;
+        margin-top: 60px;
+       
+    }
+    #uni {
+        padding:0;
+    }
+}
+@media (max-width: 300px){
+    .div30 img{
+        width: 100px;
+        margin-top: 20px;
+    }
+    #uni {
+        padding:0;
+    }
+}

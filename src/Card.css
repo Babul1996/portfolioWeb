@@ -1,0 +1,64 @@
+.resize{
+    resize: none;
+}
+
+.cont{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 5px;
+}
+.card{
+    width: 350px;
+    height: 250px;
+
+    box-shadow: 5px 5px 1px rgb(78, 50, 50);
+    
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pro h3{
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 8px;
+   
+}
+.card{
+    transition: 0.5s all ease-in-out;
+    background-color: yellowgreen;
+}
+
+.card:hover{
+    transform: translateY(-20px);
+    
+}
+
+@media(max-width:991px){
+    .card{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 150px;
+        margin-top: 50px;
+        
+    }
+
+    .card-title{
+        font-size: 15px;
+        font-weight: bold;
+        
+    }
+
+    .card-text{
+        font-size: 10px;
+    }
+}
