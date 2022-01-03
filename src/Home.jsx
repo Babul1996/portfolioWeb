@@ -1,6 +1,7 @@
 import React from 'react'
 import './Home.css';
 import web from '../src/image/PHOTO.jpg'
+import resume from '../src/photo/Resume.pdf';
 
 
 
@@ -12,9 +13,11 @@ const Home = () => {
         <div className="container">
         <div id="uni">
           <div className="div70">
-               <h1>Hi I'm Babul Gupta.</h1>
+               <h1>Hi I'm Babul Kumar.</h1>
                <h2>I'm a Front End Devloper</h2>
-               <button className="btn btn-primary" type="button">Download CV</button>
+               <a href={resume} download="pic">
+              <button className="btn btns" type="button" >Download CV</button>
+              </a>
            </div>
            
            <div className="div30">

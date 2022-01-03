@@ -84,6 +84,17 @@ const Skill = () => {
                   aria-valuemax="100"
                 >40%</div>
               </div>
+              <h3>Tailwind CSS</h3>
+              <div class="progress">
+                <div
+                  class="progress-bar progress-bar-striped bg-dark"
+                  role="progressbar"
+                  style={{width: "30%"}}
+                  aria-valuenow="100"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >30%</div>
+              </div>
             </div>
           </div>
         </div>

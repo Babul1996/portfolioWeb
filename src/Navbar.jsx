@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-light sticky-top">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
-            Babul Gupta
+            Babul Kumar.
           </NavLink>
           <button
             className="navbar-toggler"
