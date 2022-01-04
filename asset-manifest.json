@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolioWeb/static/css/main.2b74c97a.chunk.css",
+    "main.js": "/portfolioWeb/static/js/main.5f9d052d.chunk.js",
+    "main.js.map": "/portfolioWeb/static/js/main.5f9d052d.chunk.js.map",
+    "runtime-main.js": "/portfolioWeb/static/js/runtime-main.64dcb28d.js",
+    "runtime-main.js.map": "/portfolioWeb/static/js/runtime-main.64dcb28d.js.map",
+    "static/css/2.c1256375.chunk.css": "/portfolioWeb/static/css/2.c1256375.chunk.css",
+    "static/js/2.09787881.chunk.js": "/portfolioWeb/static/js/2.09787881.chunk.js",
+    "static/js/2.09787881.chunk.js.map": "/portfolioWeb/static/js/2.09787881.chunk.js.map",
+    "index.html": "/portfolioWeb/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/portfolioWeb/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.2b74c97a.chunk.css.map": "/portfolioWeb/static/css/main.2b74c97a.chunk.css.map",
+    "static/js/2.09787881.chunk.js.LICENSE.txt": "/portfolioWeb/static/js/2.09787881.chunk.js.LICENSE.txt",
+    "static/media/PHOTO.f1109f02.jpg": "/portfolioWeb/static/media/PHOTO.f1109f02.jpg",
+    "static/media/Resume.e2117000.pdf": "/portfolioWeb/static/media/Resume.e2117000.pdf",
+    "static/media/Home.css": "/portfolioWeb/static/media/back.6816c4b3.jpg",
+    "static/media/html.652b35e3.JPG": "/portfolioWeb/static/media/html.652b35e3.JPG",
+    "static/media/img.fc9a8544.jpg": "/portfolioWeb/static/media/img.fc9a8544.jpg",
+    "static/media/img1.78319329.jpg": "/portfolioWeb/static/media/img1.78319329.jpg",
+    "static/media/iot.fada5411.jpg": "/portfolioWeb/static/media/iot.fada5411.jpg",
+    "static/media/iots.f5e42b97.jpg": "/portfolioWeb/static/media/iots.f5e42b97.jpg",
+    "static/media/mol.76d1c8e7.jpg": "/portfolioWeb/static/media/mol.76d1c8e7.jpg",
+    "static/media/nas.87ca4dd3.jpg": "/portfolioWeb/static/media/nas.87ca4dd3.jpg",
+    "static/media/photos.73e7a0f0.jpg": "/portfolioWeb/static/media/photos.73e7a0f0.jpg",
+    "static/media/pics.de54d135.jpg": "/portfolioWeb/static/media/pics.de54d135.jpg",
+    "static/media/pp.be135cef.jpg": "/portfolioWeb/static/media/pp.be135cef.jpg",
+    "static/media/python.ebf3ebe8.jpg": "/portfolioWeb/static/media/python.ebf3ebe8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64dcb28d.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.09787881.chunk.js",
+    "static/css/main.2b74c97a.chunk.css",
+    "static/js/main.5f9d052d.chunk.js"
+  ]
+}
