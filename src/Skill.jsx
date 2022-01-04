@@ -28,9 +28,9 @@ const Skill = () => {
             
             <div className="div60 ps-2">
             <h3>HTML</h3>
-              <div class="progress">
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped"
+                  className="progress-bar progress-bar-striped"
                   role="progressbar"
                   style={{width: "80%"}}
                   aria-valuenow="10"
@@ -39,9 +39,9 @@ const Skill = () => {
                 >80%</div>
               </div>
               <h3>CSS</h3>
-              <div class="progress">
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped bg-success"
+                  className="progress-bar progress-bar-striped bg-success"
                   role="progressbar"
                   style={{width: "70%"}}
                   aria-valuenow="25"
@@ -50,11 +50,11 @@ const Skill = () => {
                 >70%</div>
               </div>
               <h4>Bootstrap</h4>
-              <div class="progress">
+              <div className="progress">
               
                 <div
                
-                  class="progress-bar progress-bar-striped bg-info"
+                  className="progress-bar progress-bar-striped bg-info"
                   role="progressbar"
                   style={{width: "60%"}}
                   aria-valuenow="50"
@@ -63,9 +63,9 @@ const Skill = () => {
                 >60%</div>
               </div>
               <h3>Java Script</h3>
-              <div class="progress">
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped bg-warning"
+                  className="progress-bar progress-bar-striped bg-warning"
                   role="progressbar"
                   style={{width: "50%"}}
                   aria-valuenow="75"
@@ -74,9 +74,9 @@ const Skill = () => {
                 >50%</div>
               </div>
               <h3>ReactJS</h3>
-              <div class="progress">
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped bg-danger"
+                  className="progress-bar progress-bar-striped bg-danger"
                   role="progressbar"
                   style={{width: "40%"}}
                   aria-valuenow="100"
@@ -85,9 +85,9 @@ const Skill = () => {
                 >40%</div>
               </div>
               <h3>Tailwind CSS</h3>
-              <div class="progress">
+              <div className="progress">
                 <div
-                  class="progress-bar progress-bar-striped bg-dark"
+                  className="progress-bar progress-bar-striped bg-dark"
                   role="progressbar"
                   style={{width: "30%"}}
                   aria-valuenow="100"
